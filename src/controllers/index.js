@@ -1,0 +1,12 @@
+module.exports.authController = require('./auth.controller');
+module.exports.userController = require('./user.controller');
+module.exports.PlaceController = require('./place.controller');
+module.exports.checkinController = require('./checkin.controller');
+module.exports.organizationsController = require('./organizations.controller');
+module.exports.placeController = require('./place.controller');
+module.exports.scanQRController = require('./scanQR.controller');
+module.exports.shiftController = require('./shift.controller');
+module.exports.timesheetController = require('./timesheet.controller');
+module.exports.divisionController = require('./division.controller');
+module.exports.explainController = require('./explain.controller');
+module.exports.notificationController = require('./notification.controller');
